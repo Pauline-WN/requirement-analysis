@@ -23,3 +23,23 @@ Requirement Analysis plays a crucial role in the success of any software develop
 
 - **Improves Product Quality:**  
   With well-defined requirements, developers can build a system that meets user needs effectively, resulting in a more usable and reliable product.
+
+
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several essential activities that ensure software requirements are properly identified, documented, and validated. These activities include:
+
+- **Requirement Gathering:**  
+  Collecting information from stakeholders, end-users, and other relevant sources about what they expect from the system.
+
+- **Requirement Elicitation:**  
+  Using techniques like interviews, surveys, brainstorming sessions, and workshops to uncover implicit and explicit needs.
+
+- **Requirement Documentation:**  
+  Clearly recording the gathered requirements in structured formats such as Software Requirement Specifications (SRS), user stories, or use cases.
+
+- **Requirement Analysis and Modeling:**  
+  Analyzing the documented requirements to resolve conflicts, remove ambiguities, and model the system using diagrams or other visual tools.
+
+- **Requirement Validation:**  
+  Ensuring that the documented requirements are accurate, complete, and aligned with stakeholder expectations through reviews, walkthroughs, or prototyping.
