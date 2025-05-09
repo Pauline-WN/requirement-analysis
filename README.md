@@ -68,3 +68,23 @@ These specify the **quality attributes** of the system—how the system performs
 - User data must be encrypted and stored securely.
 - The platform should have 99.9% uptime availability.
 - The system should support up to 10,000 concurrent users without performance degradation.
+
+
+## Acceptance Criteria
+
+Acceptance Criteria are specific conditions or statements that must be met for a software feature to be considered complete and acceptable by stakeholders. They provide a clear and measurable definition of success for each requirement and help ensure alignment between developers, testers, and users.
+
+### Why Acceptance Criteria are Important
+- They **clarify expectations** and reduce ambiguity in requirements.
+- They serve as a **reference point for testing and validation**.
+- They help determine when a feature is **“done”** and ready for deployment.
+
+### Example: Checkout Feature in Booking Management System
+
+**Feature**: Checkout
+
+**Acceptance Criteria**:
+- Users must be able to review all booking details before finalizing the payment.
+- The system must support secure payment options (e.g., card, mobile money).
+- An order confirmation page must be displayed after a successful transaction.
+- A confirmation email must be sent within 1 minute of successful checkout.
