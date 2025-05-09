@@ -1,2 +1,3 @@
-# requirement-analysis
-A comprehensive guide to software requirement analysis using a Booking Management System case study. Includes documentation, diagrams, and structured breakdowns of functional and non-functional requirements, use cases, and acceptance criteria.
+# Requirement Analysis in Software Development
+
+This repository contains a comprehensive breakdown of the Requirement Analysis phase in the Software Development Lifecycle (SDLC), using a Booking Management System as a case study. It includes key concepts, structured documentation, diagrams, and examples that demonstrate how to gather, document, and validate software requirements effectively.
